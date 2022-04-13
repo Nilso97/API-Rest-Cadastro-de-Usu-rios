@@ -39,4 +39,3 @@ Ex:
 OBS: Os dados são exibidos e manipulados utilizando JSON (JavaScript Object Notation)
 
 ![API Rest](https://user-images.githubusercontent.com/96146165/160240675-68e19d9a-7930-4c38-bc30-d78246d0fdf5.png)
-# API-Rest-Cadastro-de-Usuarios
